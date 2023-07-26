@@ -45,3 +45,16 @@ for student in studentslist:
 teacher = Teacher('Gennadiy Viktorovic', 40, True, 10, 10000)
 teacher.introduce_myself()
 print('Salary:', teacher.calculate_salary())
+
+
+
+
+
+
+
+
+
+
+
+
+gitr
