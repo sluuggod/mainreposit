@@ -39,3 +39,14 @@ if __name__ == "__main__":
     print("Отсортированный список:", sorted_list)
 
     result_index = binary_search(element_to_search, sorted_list)
+
+
+
+
+
+
+
+
+
+
+
